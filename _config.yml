@@ -1,0 +1,7 @@
+markdown: redcarpet
+pygments: true
+
+title_tag_text: IOTC WPM
+h1_tag_text: Working Party on Methods - Indian Ocean Tuna Commission
+
+exclude: ["Procfile", "Gruntfile.js", "README.md", "package.json", "CNAME", "node_modules"]
